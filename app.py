@@ -4,6 +4,6 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     print('Automatic Diploy')
-    print('Hello!')
+    print('Hello! World')
 
 hello_world() 
