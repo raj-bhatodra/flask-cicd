@@ -5,6 +5,5 @@ app = Flask(__name__)
 def hello_world():
     print('Automatic Deploy')
     print('Hello! World')
-    print('10th build')
 
 hello_world() 
